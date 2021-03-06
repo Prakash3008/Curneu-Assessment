@@ -1,0 +1,8 @@
+# ninja log v5
+8	57	0	D:/Curneu/GradientDescent/build-GradientDescent-Desktop_Qt_6_0_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	2752ca7703fa4dfc
+2	967	6366708554131160	GradientDescent_autogen/timestamp	52341f0262700b57
+968	1092	6366708555278085	D:/Curneu/GradientDescent/GradientDescent/GradientDescent_en_IN.ts	7b23c3c37a0a54d2
+1092	3855	6366708582944560	CMakeFiles/GradientDescent.dir/GradientDescent_autogen/mocs_compilation.cpp.obj	caa564f4a6ae6d44
+1096	4167	6366708586064615	CMakeFiles/GradientDescent.dir/widget.cpp.obj	ccadeca66b0f5015
+1099	4176	6366708586032658	CMakeFiles/GradientDescent.dir/main.cpp.obj	ac8bf66d47226a60
+4176	4576	6366708589993496	GradientDescent.exe	14ca9a4b60bc8c07
