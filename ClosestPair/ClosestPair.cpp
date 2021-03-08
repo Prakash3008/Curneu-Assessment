@@ -116,7 +116,5 @@ main()
         P[i].y = randomy;
     }
     int size = sizeof(P) / sizeof(P[0]);
-    cout << "Closest Pair " << closest(P, size);
-    // cout << p1.x << " " << p1.y << endl;
-    // cout << p2.x << " " << p2.y;
+    cout << "Closest Distance : " << closest(P, size);
 }
